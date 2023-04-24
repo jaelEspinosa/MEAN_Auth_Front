@@ -1,4 +1,6 @@
 # AuthApp
+Este proyecto está creado con  [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0. como documentación
+de como implementar una autenticación con JWT.
 
 # MEAN AUTH
   Cascarón de Front de auth.
