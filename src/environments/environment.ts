@@ -3,5 +3,5 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://localhost:4000/api'
+  baseUrl: 'https://auth-app-r6dv.onrender.com/api'
 }
